@@ -1,0 +1,4 @@
+interface:
+  display_name: "Bioinfo Writing"
+  short_description: "Evidence-bound editing for bioinformatics manuscripts"
+  default_prompt: "Use $bioinfo-writing to revise this bioinformatics passage without inflating its claims."
